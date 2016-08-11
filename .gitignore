@@ -1,1 +1,7 @@
 /node_modules
+
+/app/assets/css/*
+/app/assets/js/*
+
+/app/public/css/*
+/app/public/js/*
