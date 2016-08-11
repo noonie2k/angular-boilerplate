@@ -1,0 +1,23 @@
+{
+  "name": "angular-boilerplate",
+  "version": "0.1.0",
+  "description": "Boilerplate App for Angular",
+  "main": "app.js",
+  "author": "Adam Noon <adam.ian.noon@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "method-override": "^2.3.6",
+    "morgan": "^1.7.0",
+    "pug": "^2.0.0-beta5"
+  },
+  "devDependencies": {
+    "foundation-sites": "^6.2.3",
+    "grunt": "^1.0.1",
+    "grunt-contrib-coffee": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
